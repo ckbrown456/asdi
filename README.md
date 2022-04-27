@@ -16,6 +16,8 @@ You may also see any lint errors in the console.
 
 Builds the app for production to the `build` folder.\
 
-### Environment Variables
+### Environment Variables & Deployment
 
 Built with SOME environment variables
+
+Deployed to GCP Firebase
